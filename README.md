@@ -1,0 +1,1 @@
+# fujinet-random-number-test
